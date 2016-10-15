@@ -1,6 +1,4 @@
 print "Hello world"
-<<<<<<< HEAD
 print "Hi!"
-=======
 print "Hello again"
->>>>>>> origin/master
+print "Hi HI HI"
